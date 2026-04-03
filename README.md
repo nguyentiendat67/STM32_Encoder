@@ -1,2 +1,2 @@
-# Project_VT
-In here, I have a little project in my study road 
+# STM32_Encoder
+Here I have a major assignment after completing the microprocessor engineering course.
